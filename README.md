@@ -1,7 +1,14 @@
-## Olá eu sou o Nicolas Moreira Barbosa, Desenvolvedor web e mobile!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Nicolas+Moreira+Barbosa)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolas271103&bg_color=161b22&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolas271103&show_icons=true&count_private=true&hide_border=true&title_color=00FFDC&icon_color=00FFDC&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas Moreira Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas271103&layout=compact&hide_border=true&title_color=00FFDC&text_color=00FFDC&bg_color=0d1117" />
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
