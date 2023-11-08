@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFDC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Nicolas+Moreira+Barbosa;Tenho+19+anos;sou+desenvolvedor+web+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Nicolas+Moreira+Barbosa;Tenho+20+anos;sou+desenvolvedor+web+Fullstack)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolas271103&show_icons=true&count_private=true&hide_border=true&title_color=00FFDC&icon_color=00FFDC&text_color=c9d1d9&bg_color=0d1117" alt="nicolas271103 github stats" /> 
