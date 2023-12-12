@@ -22,6 +22,12 @@
   <a href="https://instagram.com/nicolasmoreira206" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nico.mb2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-moreira-a304a4226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nicolas271103/nicolas271103/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/nicolas271103/nicolas271103/raw/output/github-contribution-grid-snake.svg"
+    alt="Snake animation" style="max-width: 100%;">
+  </a>
+</p>
   
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFDC&height=120&section=footer"/>
